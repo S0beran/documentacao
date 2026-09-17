@@ -7,4 +7,5 @@ Vamos tratar mais especificamente sobre o que aborda o repositório no qual esta
 ## Ferramentas
 Nesse repositório, utilizaremos apenas MARKDOWN;
 
-Para instalar acesse a página de [INSTALAÇÃO] (docs/install.md)
+## Instalação
+Para instalar acesse a página de [INSTALAÇÃO] (docs/install.md).
