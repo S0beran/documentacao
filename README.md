@@ -8,4 +8,4 @@ Vamos tratar mais especificamente sobre o que aborda o repositório no qual esta
 Nesse repositório, utilizaremos apenas MARKDOWN;
 
 ## Instalação
-Para instalar acesse a página de [INSTALAÇÃO] (docs/install.md).
+Para instalar acesse a página de [INSTALAÇÃO](docs/install.md).
